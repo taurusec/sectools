@@ -1,8 +1,8 @@
-Origin: taurusec.github.io/sectools
-Label: TauruSecTools
+Origin: Pentester
+Label: Ios For Pentester
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: io.github.taurusec/pentester
 Architectures: iphoneos-arm
 Components: main
 Description: Ios For Pentesters
