@@ -1,0 +1,11 @@
+Package: com.buhosec.nmap
+Description: Nmap es un programa de código abierto que sirve para efectuar rastreo de puertos
+Priority: standard
+Section: Networking
+Installed-Size: 4532
+Maintainer: TaurusOmar <taurusomar@buhosec.com>
+Architecture: iphoneos-arm
+Version: 5.00-6
+Name: Nmap
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libpcap, openssl, pcre
